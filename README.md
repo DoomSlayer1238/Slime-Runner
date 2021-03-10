@@ -1,2 +1,2 @@
-# MatterJSBoilerPlate
+# Slime Runner
 MatterJSBoilerPlate
